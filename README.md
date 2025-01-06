@@ -7,25 +7,6 @@
 Run
 
 ```
-> curl localhost
-<html>
-    <head><title>test</title></head>
-    <body>
-        <div>i am not empty</div>
-
-
-
-        <!-- START -->
-
-            <div>I am a fallback</div>
-
-    </body>
-</html>
-```
-
-One more time
-
-```
 curl localhost
 <html>
     <head><title>test</title></head>
